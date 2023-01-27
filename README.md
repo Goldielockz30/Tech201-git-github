@@ -7,6 +7,7 @@ Tech201-git-github
 
 - This line is added on localhost
 
+notes for git bash 
 
 - create new folder      name
 
@@ -39,18 +40,27 @@ git clone https://github.com/Goldielockz30/Tech201-git-github.git
 ls
 
 
-- go into updated directory 
+- go into updated directory
 
-cd Tech201-git-github
 
-  
+
 - print working directory
 
 pwd to find absolute path
 
+then
 
-(shows folder ending with main, for particular task)
+cd (new path)
 
+
+to get into the new path
+
+pwd
+
+
+(shows folder ending with main, for particular task (git bash))
+
+ls -a
 
 - lt should show README.md
 
