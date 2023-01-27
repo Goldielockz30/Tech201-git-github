@@ -60,5 +60,5 @@ git push -u origin main
 - this shows folder where files are committed
 ls -a
 
-![](git.jpg)
 
+![](git.jpg)
