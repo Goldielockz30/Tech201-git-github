@@ -30,9 +30,9 @@ pwd
 
 
 - clone information from git to local host, get http address from repo code 
+
 git clone https://github.com/Goldielockz30/Tech201-git-github.git
 
-  
 
 - to confirm check list directories
 
