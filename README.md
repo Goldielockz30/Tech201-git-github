@@ -42,6 +42,22 @@ this will take us into the README file locally so we can modify it
 - This line is added on
 ctrl+x  then press Y and then press enter
 
+check if added information is saved
+cat README.md
 
+to add it to git
+git add .
+
+check ststus, if we checked status before add it would have been red
+git status
+
+to save locally
+git commit -m "testing github connection"   
+
+to save globally
+git push -u origin main  
+
+this shows folder where files are commited
+ls -a
 
 
