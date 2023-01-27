@@ -32,7 +32,7 @@ cd Tech201-git-github
 pwd to find absolute path
 shows folder ending with main
 
--ls should show README.md
+-lt should show README.md
 
 
 -nano README.md
