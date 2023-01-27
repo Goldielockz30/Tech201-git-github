@@ -104,9 +104,6 @@ ls -a
 to go into correct folder
 
 
-cd and the new path of folder
-
-
 make sure all files are in the same and correct folder
 
 
