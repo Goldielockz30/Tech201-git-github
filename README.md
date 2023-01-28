@@ -35,18 +35,19 @@ pwd
 git clone https://github.com/Goldielockz30/Tech201-git-github.git
 
 
-- to confirm check list directories
-
 ls
 
+- to confirm file check list in directory
 
-- go into updated directory
+- to confirm list or the files in updated directory
 
 
 
-- print working directory
+
 
 pwd to find absolute path
+
+- print working directory
 
 then
 
